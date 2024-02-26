@@ -29,10 +29,6 @@ Overall, our unit test strategy is characterized by a disciplined approach to te
 
 # 3 Test cases developed
 
-//Write down the names of the test methods and classes. Organize the based on
-the source code method // they test. identify which tests cover which partitions
-you have explained in the test strategy section //above
-
 ### Test Methods for RangeTest Class
 
 #### `getLength()`
